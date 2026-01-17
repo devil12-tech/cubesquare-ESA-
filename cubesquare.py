@@ -8,5 +8,5 @@ def cubesquare_details(num):
     }
 
 if __name__ == "__main__":
-    num = int(input("Enter the number: "))
+    num = 5
     print(cubesquare_details(num))
